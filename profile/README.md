@@ -1,16 +1,14 @@
 # We are MilesCode, welcome ! ✨
 
-We're a duet of two french friends that love programming.
+We're a duo of two french friends that love programming.
 
 ## About us
 
-<a href="https://milescodeit.github.io">
+<a href="https://www.milescode.dev">
   <img align="right" src="https://avatars.githubusercontent.com/u/82933976?s=200&v=4" />
 </a>
 
-The duet is composed of...
+The duo is composed of...
 
-- [**Vexcited**](https://github.com/Vexcited), a web developper that loves the MERN tech stack. He also uses TypeScript sometimes and Next.js for a lot of projects.
-- [**Invertime**](https://github.com/Invertime), a game developper using Unity and C#. He is also very interested in cyber-security.
-
-We both use tools like [Figma](https://figma.com) for designing and prototyping.
+- [**Vexcited**](https://github.com/Vexcited), a full-stack web developper who loves the MESN tech stack. He also uses TypeScript sometimes and SolidStart for a lot of projects.
+- [**Invertime**](https://github.com/Invertime), a C++ enjoyer. Oh and also, he loves cyber-security.
